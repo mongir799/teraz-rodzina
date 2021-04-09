@@ -1,6 +1,6 @@
 <?php
 /* Required settings     */
-$CLOAKING['WHITE_PAGE'] = '/zobacz-teraz24';
+$CLOAKING['WHITE_PAGE'] = 'zobacz-teraz24';
 $CLOAKING['OFFER_PAGE'] = 'porwano-dziewczynke/';
 $CLOAKING['DEBUG_MODE'] = 'off';
 $CLOAKING['STEALTH'] = 'off';
